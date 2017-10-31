@@ -1,0 +1,27 @@
+{
+	"errorCode": 0,
+	"errorString": "ok", 
+ 	"hotspots": 
+	[
+		{
+			"anchor": 
+			{ 
+				"geolocation": 
+				{ 
+					"lat": 8.616558, 
+					"lon": -71.133906 
+				} 
+			},
+ 			"icon": 
+			{
+				 "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/SANTA%20MARIA.jpg"
+			}
+			"id": 1,
+			"text": 
+			{
+     				"title": "Santa_Maria", 
+     			}
+ 		}
+	], 
+	 "layer": "1st One"
+}
