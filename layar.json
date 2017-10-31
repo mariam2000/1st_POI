@@ -1,13 +1,27 @@
-{"hotspots": [{
-   "id": "01",
-   "anchor": { "geolocation": { "lat": 8.616558, "lon": -71.133906 } }, 
-   "text": {
-     "title": "Santa_Maria", 
-     "description": "The Location of my mom's house", 
-     "footnote": "Powered by Layar" },
- "imageURL": "https:\/\/github.com\/mariam2000\/1st_POI\/blob\/master\/SANTA%20MARIA%20!!!.jpg"
- }], 
- "layer": "1st One",
- "errorString": "ok", 
- "errorCode": 0
+{
+	"errorCode": 0,
+	"errorString": "ok", 
+ 	"hotspots": 
+	[
+		{
+			"anchor": 
+			{ 
+				"geolocation": 
+				{ 
+					"lat": 8.616558, 
+					"lon": -71.133906 
+				} 
+			},
+ 			"icon": 
+			{
+				 "URL": "https://github.com/mariam2000/1st_POI/blob/master/SANTA%20MARIA%20!!!.jpg"
+			}
+			"id": 1,
+			"text": 
+			{
+     				"title": "Santa_Maria", 
+     			}
+ 		}
+	], 
+	 "layer": "1st One"
 } 
