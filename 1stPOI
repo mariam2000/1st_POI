@@ -10,7 +10,7 @@
       } 
     },
     "icon": {
-      "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/SANTAMARIA.jpg"
+      "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/SANTAMARIA.png"
     },
     "id": 1,
     "text": {
@@ -18,8 +18,8 @@
       "description": "My mom's house",
       "footnote": "Made by MCM"
     },
-    "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/SANTAMARIA.jpg"
+    "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/SANTAMARIA.png"
   }
 ], 
-"layer": "1st One"
+"layer": "l1stoneda5n"
 } 
