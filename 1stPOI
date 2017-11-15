@@ -10,15 +10,15 @@
       } 
     },
     "icon": {
-      "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/SANTAMARIA.png"
+      "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/thriller.gif"
     },
     "id": 1,
     "text": {
-      "title": "Santa_Maria", 
-      "description": "My mom's house",
-      "footnote": "Made by MCM"
+      "title": "Thriller", 
+      "description": "Thriller",
+      "footnote": "Imported by MCM"
     },
-    "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/SANTAMARIA.png"
+    "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/thriller.gif"
   }
 ], 
 "layer": "l1stoneda5n"
