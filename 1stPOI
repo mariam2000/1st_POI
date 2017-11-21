@@ -5,8 +5,8 @@
   {
     "anchor": { 
       "geolocation": { 
-        "lat": 32.128880, 
-        "lon": -96.246254 
+        "lat": 8.616558, 
+        "lon": -71.133906 
       } 
     },
     "icon": {
@@ -15,12 +15,11 @@
     "id": 1,
     "text": {
       "title": "Cemetery", 
-      "description": "Cemetery",
-      "footnote": "Made by MCM"
+      "description": "A really really scary place...run for your life!!!",
+      "footnote": "Imported by MCM"
     },
     "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/01-Zombie.gif"
   }
- }
 ], 
 "layer": "l1stoneda5n"
 } 
