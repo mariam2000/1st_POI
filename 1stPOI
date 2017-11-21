@@ -167,8 +167,8 @@
   {
     "anchor": { 
       "geolocation": { 
-        "lat": 32.128212, 
-        "lon": -96.226944 
+        "lat": 32.129529, 
+        "lon": -96.227169 
       } 
     },
     "icon": {
@@ -253,6 +253,42 @@
       "footnote": "Imported by MCM"
     },
     "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/14-Bat.gif"
+  },
+  {
+    "anchor": { 
+      "geolocation": { 
+        "lat": 32.130029, 
+        "lon": -96.229267 
+      } 
+    },
+    "icon": {
+      "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/15-Cricket.gif"
+    },
+    "id": 15,
+    "text": {
+      "title": "Jiminy Cricket", 
+      "description": "Such a nice place to go to sleep",
+      "footnote": "Imported by MCM"
+    },
+    "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/15-Cricket.gif"
+  },
+  {
+    "anchor": { 
+      "geolocation": { 
+        "lat": 32.129702, 
+        "lon": -96.233644 
+      } 
+    },
+    "icon": {
+      "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/16-Dole.gif"
+    },
+    "id": 16,
+    "text": {
+      "title": "Dip in the Pool", 
+      "description": "So funny, the best ever!!",
+      "footnote": "Imported by MCM"
+    },
+    "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/16-Dole.gif"
   }
 ], 
 "layer": "l1stoneda5n"
