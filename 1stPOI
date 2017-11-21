@@ -86,8 +86,8 @@
     },
     "id": 5,
     "text": {
-      "title": "Bear", 
-      "description": "So cute ;)",
+      "title": "Cat", 
+      "description": "I want a ride tooo",
       "footnote": "Imported by MCM"
     },
     "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/05-Ride.gif"
@@ -104,11 +104,47 @@
     },
     "id": 6,
     "text": {
-      "title": "Bear", 
-      "description": "So cute ;)",
+      "title": "Car", 
+      "description": "Just a little one",
       "footnote": "Imported by MCM"
     },
     "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/06-Car.gif"
+  },
+  {
+    "anchor": { 
+      "geolocation": { 
+        "lat": 32.132146, 
+        "lon": -96.239620 
+      } 
+    },
+    "icon": {
+      "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/07-Cat.gif"
+    },
+    "id": 7,
+    "text": {
+      "title": "Cat", 
+      "description": "I really like this one",
+      "footnote": "Imported by MCM"
+    },
+    "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/07-Cat.gif"
+  },
+  {
+    "anchor": { 
+      "geolocation": { 
+        "lat": 32.131374, 
+        "lon": -96.227171 
+      } 
+    },
+    "icon": {
+      "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/08-Pizza.gif"
+    },
+    "id": 8,
+    "text": {
+      "title": "Pizza", 
+      "description": "I don't like pizza standing, it's better on a plate",
+      "footnote": "Imported by MCM"
+    },
+    "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/08-Pizza.gif"
   }
 ], 
 "layer": "l1stoneda5n"
