@@ -30,13 +30,31 @@
     "icon": {
       "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/02-Sunflower.gif"
     },
-    "id": 1,
+    "id": 2,
     "text": {
       "title": "Sunflower", 
       "description": "Such a Beautiful Creature",
       "footnote": "Imported by MCM"
     },
     "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/02-Sunflower.gif"
+  },
+    {
+    "anchor": { 
+      "geolocation": { 
+        "lat": 8.609225, 
+        "lon": -71.14203 
+      } 
+    },
+    "icon": {
+      "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/03-groot.gif"
+    },
+    "id": 3,
+    "text": {
+      "title": "Groot", 
+      "description": "This is so funny...=)",
+      "footnote": "Imported by MCM"
+    },
+    "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/03-groot.gif"
   }
 ], 
 "layer": "l1stoneda5n"
