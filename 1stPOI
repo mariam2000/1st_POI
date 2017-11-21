@@ -167,8 +167,8 @@
   {
     "anchor": { 
       "geolocation": { 
-        "lat": 32.132360, 
-        "lon": -96.232815 
+        "lat": 32.128212, 
+        "lon": -96.226944 
       } 
     },
     "icon": {
@@ -182,7 +182,7 @@
     },
     "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/10-Monkey.gif"
   },
-    {
+  {
     "anchor": { 
       "geolocation": { 
         "lat": 32.128236, 
@@ -199,6 +199,60 @@
       "footnote": "Imported by MCM"
     },
     "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/11-Michael.gif"
+  },
+  {
+    "anchor": { 
+      "geolocation": { 
+        "lat": 32.123155, 
+        "lon": -96.227260 
+      } 
+    },
+    "icon": {
+      "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/12-Piano.gif"
+    },
+    "id": 12,
+    "text": {
+      "title": "Piano", 
+      "description": "Can you hear the music?...If you do you're crazy",
+      "footnote": "Imported by MCM"
+    },
+    "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/12-Piano.gif"
+  },
+  {
+    "anchor": { 
+      "geolocation": { 
+        "lat": 32.123936, 
+        "lon": -96.225769 
+      } 
+    },
+    "icon": {
+      "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/13-Snoopy.gif"
+    },
+    "id": 13,
+    "text": {
+      "title": "Snoopy", 
+      "description": "How funny, Snoopy playing by himself",
+      "footnote": "Imported by MCM"
+    },
+    "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/13-Snoopy.gif"
+  },
+  {
+    "anchor": { 
+      "geolocation": { 
+        "lat": 32.122411, 
+        "lon": -96.224752 
+      } 
+    },
+    "icon": {
+      "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/14-Bat.gif"
+    },
+    "id": 14,
+    "text": {
+      "title": "Bat", 
+      "description": "Tom found the easiest way to make a Bat ",
+      "footnote": "Imported by MCM"
+    },
+    "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/14-Bat.gif"
   }
 ], 
 "layer": "l1stoneda5n"
