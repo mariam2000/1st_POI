@@ -113,8 +113,8 @@
   {
     "anchor": { 
       "geolocation": { 
-        "lat": 32.132146, 
-        "lon": -96.239620 
+        "lat": 32.133336, 
+        "lon": -96.227116 
       } 
     },
     "icon": {
@@ -145,6 +145,24 @@
       "footnote": "Imported by MCM"
     },
     "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/08-Pizza.gif"
+  },
+  {
+    "anchor": { 
+      "geolocation": { 
+        "lat": 32.130465, 
+        "lon": -96.227413 
+      } 
+    },
+    "icon": {
+      "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/09-Pink.gif"
+    },
+    "id": 9,
+    "text": {
+      "title": "Pink Panther", 
+      "description": "So funny to see the Pink Panther reading a book",
+      "footnote": "Imported by MCM"
+    },
+    "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/09-Pink.gif"
   }
 ], 
 "layer": "l1stoneda5n"
