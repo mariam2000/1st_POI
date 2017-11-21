@@ -73,6 +73,24 @@
       "footnote": "Imported by MCM"
     },
     "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/04-Bear.gif"
+  },
+  {
+    "anchor": { 
+      "geolocation": { 
+        "lat": 32.130739, 
+        "lon": -96.241128 
+      } 
+    },
+    "icon": {
+      "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/05-Ride.gif"
+    },
+    "id": 5,
+    "text": {
+      "title": "Bear", 
+      "description": "So cute ;)",
+      "footnote": "Imported by MCM"
+    },
+    "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/005-Ride.gif"
   }
 ], 
 "layer": "l1stoneda5n"
