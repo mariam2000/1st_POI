@@ -5,8 +5,8 @@
   {
     "anchor": { 
       "geolocation": { 
-        "lat": 8.616558, 
-        "lon": -71.133906 
+        "lat": 32.128880, 
+        "lon": -96.246254 
       } 
     },
     "icon": {
@@ -23,8 +23,8 @@
   {
     "anchor": { 
       "geolocation": { 
-        "lat": 8.609225, 
-        "lon": -71.14203 
+        "lat": 32.132360, 
+        "lon": -96.232815 
       } 
     },
     "icon": {
@@ -41,8 +41,8 @@
     {
     "anchor": { 
       "geolocation": { 
-        "lat": 8.609225, 
-        "lon": -71.14203 
+        "lat": 32.132567, 
+        "lon": -96.235521 
       } 
     },
     "icon": {
@@ -55,6 +55,24 @@
       "footnote": "Imported by MCM"
     },
     "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/03-groot.gif"
+  },
+  {
+    "anchor": { 
+      "geolocation": { 
+        "lat": 32.132174, 
+        "lon": -96.239621 
+      } 
+    },
+    "icon": {
+      "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/04-Bear.gif"
+    },
+    "id": 4,
+    "text": {
+      "title": "Bear", 
+      "description": "So cute ;)",
+      "footnote": "Imported by MCM"
+    },
+    "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/04-Bear.gif"
   }
 ], 
 "layer": "l1stoneda5n"
