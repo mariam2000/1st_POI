@@ -163,7 +163,62 @@
       "footnote": "Imported by MCM"
     },
     "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/09-Pink.gif"
-  }
+  },
+  {
+    "anchor": { 
+      "geolocation": { 
+        "lat": 32.132360, 
+        "lon": -96.232815 
+      } 
+    },
+    "icon": {
+      "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/10-Monkey.gif"
+    },
+    "id": 10,
+    "text": {
+      "title": "Monkey", 
+      "description": "Don't you wish you could dance like him",
+      "footnote": "Imported by MCM"
+    },
+    "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/10-Monkey.gif"
+    },
+    {
+    "anchor": { 
+      "geolocation": { 
+        "lat": 32.128236, 
+        "lon": -96.226972 
+      } 
+    },
+    "icon": {
+      "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/11-Michael.gif"
+    },
+    "id": 11,
+    "text": {
+      "title": "Michael", 
+      "description": "Poor Michael so many surgeries and now his a Zombie",
+      "footnote": "Imported by MCM"
+    },
+    "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/11-Michael.gif"
+    },
+    {
+    "anchor": { 
+      "geolocation": { 
+        "lat": 32.123155, 
+        "lon": -96.227260 
+      } 
+    },
+    "icon": {
+      "url": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/12-Piano.gif"
+    },
+    "id": 12,
+    "text": {
+      "title": "Piano", 
+      "description": "Can you hear him play? If you do you're crazy",
+      "footnote": "Imported by MCM"
+    },
+    "imageURL": "https://raw.githubusercontent.com/mariam2000/1st_POI/master/12-Piano.gif"
+    }
+}
 ], 
 "layer": "l1stoneda5n"
 } 
